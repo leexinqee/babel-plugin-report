@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-report",
+  "version": "0.0.2",
+  "description": "可视化埋点上报",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leexinqee/babel-plugin-report.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npm.alibaba-inc.com"
+  },
+  "keywords": [
+    "babel-plugin",
+    "spm-report"
+  ],
+  "author": "leexinqee",
+  "license": "ISC",
+  "homepage": "https://github.com/leexinqee/babel-plugin-report/README.md"
+}
